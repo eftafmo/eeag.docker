@@ -2,7 +2,7 @@
 
 * Get the docker installation repository and the source code:
 
-	git clone git@gitlab.com:eftafmo/eeag.docker.git
+	git clone git@github.com:eftafmo/eeag.docker.git
 
 
 
