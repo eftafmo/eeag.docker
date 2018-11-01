@@ -23,7 +23,7 @@ services:
     restart: "always"
 
   solrvolumefixer:
-    image: solr:6.6
+    image: solr:6.6.4
     container_name: eeag_solrvolumefixer
     user: root
     volumes:
